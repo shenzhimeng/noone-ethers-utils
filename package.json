@@ -1,0 +1,22 @@
+{
+  "name": "noone-ethers-utils",
+  "version": "1.0.0",
+  "description": "ethers.js Integrated utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenzhimeng/noone-ethers-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "ethers"
+  ],
+  "author": "noone",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
